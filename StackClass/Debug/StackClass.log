@@ -1,0 +1,5 @@
+﻿  stackClass.cpp
+C:\Users\Christy\source\repos\StackClass\StackClass\stackClass.cpp(376): warning C4715:  'DoWork': not all control paths return a value
+C:\Users\Christy\source\repos\StackClass\StackClass\stackClass.cpp(316): warning C4715:  'CreateDataFile': not all control paths return a value
+C:\Users\Christy\source\repos\StackClass\StackClass\stackClass.cpp(84): warning C4715:  'stack::putIntoStack': not all control paths return a value
+  StackClass.vcxproj -> C:\Users\Christy\source\repos\StackClass\Debug\StackClass.exe
